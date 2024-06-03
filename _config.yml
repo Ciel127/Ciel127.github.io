@@ -34,8 +34,9 @@ author:
   googlescholar    : # URL
   impactstory      : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
+  huggingface      : "https://huggingface.co/Ciel127"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
