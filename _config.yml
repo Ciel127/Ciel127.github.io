@@ -34,9 +34,8 @@ author:
   googlescholar    : # URL
   impactstory      : # URL
   semantic         : # URL
-  pubmed           : # URL
-  researchgate     : # URL
   huggingface      : "https://huggingface.co/Ciel127"
+  researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
