@@ -27,4 +27,5 @@ Education
 
 For more info
 ======
-
+- You can find my huggingface submissions at [huggingface.co/Ciel127](https://huggingface.co/Ciel127).
+- You can find a USTC resume template at [USTC-material](https://github.com/Ciel127/USTC-material).Please email me if you have some interesting ideas about it.
