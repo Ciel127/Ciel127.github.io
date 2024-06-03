@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi!I'm Lin Luohao,a third year undergraduate student at University of Science and Technology of China. My current research interest includes multimodal large language models,video understanding,CoT_distillation.And I'm glad to upload something that may be helpful for USTCers.
+Hi!I'm **Luohao Lin**(Ciel),a third year undergraduate student at University of Science and Technology of China. My current research interest includes multimodal large language models,video understanding,CoT_distillation.And I'm glad to upload something that may be helpful for USTCers.
 
 News
 ======
