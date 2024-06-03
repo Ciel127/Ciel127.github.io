@@ -15,9 +15,8 @@ News
 
 Honors and Awards
 ======
-\begin{itemize}
-\item 2023.12:Outstanding Student Scholarship
-\end{itemize}
+USTC Outstanding Student Scholarship
+Huawei Scholarship
 
 Site-wide configuration
 ------
