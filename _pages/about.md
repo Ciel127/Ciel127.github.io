@@ -11,7 +11,7 @@ Hi,nice to meet you here!I'm **Luohao Lin**(**Ciel**),a junior student at Univer
 
 News
 ======
-- 2024.05：Submitted a LoRA model for the Baichuan2-7B-Chat LLM on huggingface.
+- 2024.05: Submitted a LoRA model for the Baichuan2-7B-Chat LLM on huggingface.
 - 2024.04: Created a new home page.
 
 Honors and Awards
