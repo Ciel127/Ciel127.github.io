@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi!I'm **Luohao Lin**(**Ciel**),a third year undergraduate student at University of Science and Technology of China. My current research interest includes multimodal large language models,video understanding,CoT_distillation.And I'm glad to upload something that may be helpful for USTCers.
+Hi,nice to meet you here!I'm **Luohao Lin**(**Ciel**),a junior student at University of Science and Technology of China. My current research interest includes multimodal large language models,video understanding,CoT_distillation.And I'm glad to upload something that may be helpful for USTCers.
 
 News
 ======
